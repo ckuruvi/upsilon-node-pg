@@ -1,0 +1,14 @@
+1)  Create db
+  -table & columns( title, author, publication date)
+
+2) Server side:
+  -route for GET book info
+  -route for POST new books
+
+  -route for updating books
+  -route for deleting books
+
+3) Client side:
+  -AJAx call for getting books
+  -AJAX call for creating books
+  -Display books
